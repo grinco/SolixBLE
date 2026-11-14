@@ -53,6 +53,7 @@ MODELS_BY_NAME: dict[str, type[SolixBLEDevice]] = {
     "SOLIX C1000 Plus": C1000G2,
     "SOLIX C1000X Gen 2": C1000G2,
     "SOLIX C2000 Gen 2": C2000G2,
+    "SOLIX C2000X Gen 2": C2000G2,
     "Anker SOLIX C1000": C1000,
     "Anker SOLIX C300 DC": C300DC,
     "Anker SOLIX F3800": F3800,
